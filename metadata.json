@@ -1,0 +1,6 @@
+{
+  "name": "KegiatanKu - Pelacak Aktivitas, Widget Android & Kurva Progres",
+  "description": "Aplikasi manajemen aktivitas harian Android PWA dengan checklist rinci, target kuantitas, widget simulasi, kurva tren progres kolektif, kustomisasi tema, dan pencadangan cloud pribadi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

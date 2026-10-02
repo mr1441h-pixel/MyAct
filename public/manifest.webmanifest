@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "MyAct - Pelacak Aktivitas & Widget",
+  "short_name": "MyAct",
+  "description": "Pelacak aktivitas harian, checklist rinci, target kuantitas, widget Android interaktif, kurva progres kolektif, kalender Hijriah KHGT, dan backup cloud pribadi.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#4F46E5",
+  "background_color": "#0F172A",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
